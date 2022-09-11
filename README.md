@@ -7,6 +7,9 @@ Setting up Ubuntu I forgot about making screenshots. So I will describe it here.
 Installing zsh
 ![zsh](images/installing_zsh.png)
 
+Installing oh-my-zsh with custom theme
+![oh-my-zsh](images/intall_git.png)
+
 Compiled program using gcc
 ![gcc](images/compile_gcc.png)
 
