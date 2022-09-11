@@ -19,6 +19,9 @@ Working with Git-Demo
 Install GCC and Makefill
 ![gcc-and-make](images/install_gcc_and_make.png)
 
+Setting up the repo with the Hello Word code
+![github-repo](images/github_repo_with_program.png)
+
 Compiled program using gcc
 ![gcc](images/compile_gcc.png)
 
