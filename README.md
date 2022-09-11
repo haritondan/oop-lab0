@@ -10,6 +10,15 @@ Installing zsh
 Installing oh-my-zsh with custom theme
 ![oh-my-zsh](images/intall_git.png)
 
+Installing Git
+![git](images/intall_git.png)
+
+Working with Git-Demo
+![git-demo](images/working_with_git_demo.png)
+
+Install GCC and Makefill
+![gcc-and-make](images/install_gcc_and_make.png)
+
 Compiled program using gcc
 ![gcc](images/compile_gcc.png)
 
