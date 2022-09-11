@@ -5,7 +5,7 @@ Since is my first interaction with Linux, I want to make a disclaimer that some 
 Setting up Ubuntu I forgot about making screenshots. So I will describe it here. I used the disk manager to take 80gb out of my D disk. After that I created a live usb with Ubuntu, I made three partition of that 80gb and created home,root and swap. And the rest of instalation is pretty common knowledge.
 
 Installing zsh
-![zsh](image/installing_zsh.png)
+![zsh](images/installing_zsh.png)
 
 Compiled program using gcc
 ![gcc](images/compile_gcc.png)
